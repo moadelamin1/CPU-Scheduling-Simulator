@@ -197,6 +197,7 @@ This project demonstrates the trade-off between:
 
 # Screenshots
 
+![CPU Scheduling Analysis](screenshotss/analysis.png)
 
 
 ---
