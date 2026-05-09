@@ -199,7 +199,11 @@ This project demonstrates the trade-off between:
 
 ![CPU Scheduling Analysis](screenshotss/analysis.png)
 
-
+![comparison](screenshotss/comparation.png)
+![main](screenshotss/main.png)
+![priority](screenshotss/priority.png)
+![sjf](screenshotss/sjf.png)
+![sjf non-preemptive](screenshotss/sjf_non-premettive.png)
 ---
 
 # How to Run
